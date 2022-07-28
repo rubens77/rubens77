@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rubens77
+- 👀 I’m interested in videogames, books, movies and science
+- 🌱 I’m currently learning fullstack development
+- 💞️ I’m looking to collaborate on any interesting project to learn more
+- 📫 How to reach me...
